@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class LpConfig(AppConfig):
+class DjappConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'lp'
+    name = 'djapp'
